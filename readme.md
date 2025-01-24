@@ -2,11 +2,9 @@
 
 Check out the full documentation @ https://excaliburjs.com
 
-You can use the excalibur cli to generate this template
+Check out the NW.js [documentation](https://nwjs.readthedocs.io/en/latest/)
 
-```sh
-npm create excalibur
-```
+Check out the nwbuilder [documentation](https://github.com/nwutils/nw-builder)
 
 ## Getting Started
 
