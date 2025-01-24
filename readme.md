@@ -15,3 +15,10 @@ npm create excalibur
 3. Run `npm install` to install dependencies
 4. Run `npm run dev` to start the Vite server!
 5. Have fun!
+
+
+## Building the NWJS app
+
+1. Modify the nw-build.js and the NW.js manifest `public/package.json` with your info
+2. Run `npm run build`
+3. The `./app` folder will have your built exe
