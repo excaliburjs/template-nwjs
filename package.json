@@ -23,7 +23,7 @@
   "bugs": {},
   "homepage": "",
   "dependencies": {
-    "excalibur": "~0.32.0"
+    "excalibur": "~1.0.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.49.1",
